@@ -1,0 +1,1 @@
+# realizando_consultas_sql_joins_views_transacoes
